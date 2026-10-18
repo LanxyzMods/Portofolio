@@ -1,0 +1,21 @@
+{
+  "name": "erlan-portfolio-atlas",
+  "version": "1.0.0",
+  "description": "Portofolio dan Website Ekosistem Atlas oleh Erlan",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "atlas",
+    "express",
+    "node"
+  ],
+  "author": "Erlan (LanxyzMods)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
